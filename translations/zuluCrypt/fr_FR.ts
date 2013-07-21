@@ -1978,64 +1978,66 @@ Are you sure you want to delete this key?</source>
     <message>
         <location filename="../../zuluCrypt-gui/managesystemvolumes.ui" line="17"/>
         <source>manage system volumes</source>
-        <translation type="unfinished"></translation>
+        <translation>gestion des volumes système</translation>
     </message>
     <message>
         <location filename="../../zuluCrypt-gui/managesystemvolumes.ui" line="32"/>
         <source>&amp;done</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;terminé</translation>
     </message>
     <message>
         <location filename="../../zuluCrypt-gui/managesystemvolumes.ui" line="51"/>
         <source>add fi&amp;le</source>
-        <translation type="unfinished"></translation>
+        <translation>ajouter &amp;fichier</translation>
     </message>
     <message>
         <location filename="../../zuluCrypt-gui/managesystemvolumes.ui" line="70"/>
         <source>add dev&amp;ice</source>
-        <translation type="unfinished"></translation>
+        <translation>ajouter &amp;device</translation>
     </message>
     <message>
         <location filename="../../zuluCrypt-gui/managesystemvolumes.ui" line="108"/>
         <source>path to system volumes</source>
-        <translation type="unfinished"></translation>
+        <translation>emplacement des volumes système</translation>
     </message>
     <message>
         <location filename="../../zuluCrypt-gui/managesystemvolumes.cpp" line="77"/>
         <source>ERROR</source>
-        <translation type="unfinished"></translation>
+        <translation>ERROR</translation>
     </message>
     <message>
         <location filename="../../zuluCrypt-gui/managesystemvolumes.cpp" line="77"/>
         <source>could not open &quot;%1&quot; for writing</source>
-        <translation type="unfinished"></translation>
+        <translation>impossible d&apos;ouvrir &quot;%1&quot; en écriture</translation>
     </message>
     <message>
         <location filename="../../zuluCrypt-gui/managesystemvolumes.cpp" line="110"/>
         <source>remove selected entry</source>
-        <translation type="unfinished"></translation>
+        <translation>supprimer l&apos;entrée sélectionnée</translation>
     </message>
     <message>
         <location filename="../../zuluCrypt-gui/managesystemvolumes.cpp" line="113"/>
         <source>cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>annuler</translation>
     </message>
     <message>
         <location filename="../../zuluCrypt-gui/managesystemvolumes.cpp" line="127"/>
         <source>are you sure you want to remove 
 &quot;%1&quot;
  from the list?</source>
-        <translation type="unfinished"></translation>
+        <translation>êtes-vous sûr de vouloir supprimer 
+&quot;%1&quot;
+de la liste ?</translation>
     </message>
     <message>
         <location filename="../../zuluCrypt-gui/managesystemvolumes.cpp" line="131"/>
         <source>WARNING</source>
-        <translation type="unfinished"></translation>
+        <translation>ATTENTION</translation>
     </message>
     <message>
         <location filename="../../zuluCrypt-gui/managesystemvolumes.cpp" line="160"/>
         <source>select path to system volume</source>
-        <translation type="unfinished"></translation>
+        <translation>choisir l&apos;emplacement des volumes système</translation>
     </message>
 </context>
 <context>
@@ -2043,70 +2045,70 @@ Are you sure you want to delete this key?</source>
     <message>
         <location filename="../../zuluCrypt-gui/managedevicenames.ui" line="17"/>
         <source>manage favorites</source>
-        <translation type="unfinished"></translation>
+        <translation>gestion des favoris</translation>
     </message>
     <message>
         <location filename="../../zuluCrypt-gui/managedevicenames.ui" line="29"/>
         <source>&amp;add</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;ajouter</translation>
     </message>
     <message>
         <location filename="../../zuluCrypt-gui/managedevicenames.ui" line="64"/>
         <location filename="../../zuluCrypt-gui/managedevicenames.ui" line="89"/>
         <source>device address</source>
-        <translation type="unfinished"></translation>
+        <translation>adresse du device</translation>
     </message>
     <message>
         <location filename="../../zuluCrypt-gui/managedevicenames.ui" line="72"/>
         <location filename="../../zuluCrypt-gui/managedevicenames.ui" line="105"/>
         <source>mount point path</source>
-        <translation type="unfinished"></translation>
+        <translation>Emplacement du point de montage</translation>
     </message>
     <message>
         <location filename="../../zuluCrypt-gui/managedevicenames.ui" line="141"/>
         <source>open partition dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>dialogue d&apos;ouverture de partition</translation>
     </message>
     <message>
         <location filename="../../zuluCrypt-gui/managedevicenames.ui" line="157"/>
         <source>open file dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>dialogue d&apos;ouverture de fichier</translation>
     </message>
     <message>
         <location filename="../../zuluCrypt-gui/managedevicenames.ui" line="173"/>
         <source>&amp;done</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;terminé</translation>
     </message>
     <message>
         <location filename="../../zuluCrypt-gui/managedevicenames.cpp" line="127"/>
         <source>remove selected entry</source>
-        <translation type="unfinished"></translation>
+        <translation>supprimer l&apos;entrée sélectionnée</translation>
     </message>
     <message>
         <location filename="../../zuluCrypt-gui/managedevicenames.cpp" line="130"/>
         <source>cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>annuler</translation>
     </message>
     <message>
         <location filename="../../zuluCrypt-gui/managedevicenames.cpp" line="174"/>
         <location filename="../../zuluCrypt-gui/managedevicenames.cpp" line="177"/>
         <source>ERROR!</source>
-        <translation type="unfinished"></translation>
+        <translation>ERROR!</translation>
     </message>
     <message>
         <location filename="../../zuluCrypt-gui/managedevicenames.cpp" line="174"/>
         <source>device address field is empty</source>
-        <translation type="unfinished"></translation>
+        <translation>le champ d&apos;adresse du device est vide</translation>
     </message>
     <message>
         <location filename="../../zuluCrypt-gui/managedevicenames.cpp" line="177"/>
         <source>mount point path field is empty</source>
-        <translation type="unfinished"></translation>
+        <translation>le champ emplacement du point de montage est vide</translation>
     </message>
     <message>
         <location filename="../../zuluCrypt-gui/managedevicenames.cpp" line="192"/>
         <source>path to an encrypted file</source>
-        <translation type="unfinished"></translation>
+        <translation>emplacement d&apos;un fichier chiffré</translation>
     </message>
 </context>
 <context>
@@ -2114,57 +2116,57 @@ Are you sure you want to delete this key?</source>
     <message>
         <location filename="../../zuluCrypt-gui/manageluksheader.ui" line="17"/>
         <source>backup luks header</source>
-        <translation type="unfinished"></translation>
+        <translation>sauvegarde de l&apos;en-tête luks</translation>
     </message>
     <message>
         <location filename="../../zuluCrypt-gui/manageluksheader.ui" line="39"/>
         <source>backup name</source>
-        <translation type="unfinished"></translation>
+        <translation>nom de la sauvegarde</translation>
     </message>
     <message>
         <location filename="../../zuluCrypt-gui/manageluksheader.ui" line="71"/>
         <source>c&amp;reate</source>
-        <translation type="unfinished"></translation>
+        <translation>c&amp;réer</translation>
     </message>
     <message>
         <location filename="../../zuluCrypt-gui/manageluksheader.ui" line="90"/>
         <source>&amp;cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;annuler</translation>
     </message>
     <message>
         <location filename="../../zuluCrypt-gui/manageluksheader.ui" line="109"/>
         <source>device path</source>
-        <translation type="unfinished"></translation>
+        <translation>chemin du device</translation>
     </message>
     <message>
         <location filename="../../zuluCrypt-gui/manageluksheader.cpp" line="82"/>
         <source>restore luks header</source>
-        <translation type="unfinished"></translation>
+        <translation>restauration de l&apos;en-tête luks</translation>
     </message>
     <message>
         <location filename="../../zuluCrypt-gui/manageluksheader.cpp" line="84"/>
         <source>&amp;restore</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;restaurer</translation>
     </message>
     <message>
         <location filename="../../zuluCrypt-gui/manageluksheader.cpp" line="91"/>
         <source>back up luks header</source>
-        <translation type="unfinished"></translation>
+        <translation>sauvegarde de l&apos;en-tête luks</translation>
     </message>
     <message>
         <location filename="../../zuluCrypt-gui/manageluksheader.cpp" line="93"/>
         <source>&amp;backup</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;sauvegarder</translation>
     </message>
     <message>
         <location filename="../../zuluCrypt-gui/manageluksheader.cpp" line="143"/>
         <source>select a file with a luks backup header</source>
-        <translation type="unfinished"></translation>
+        <translation>choisir un fichier contenant une sauvegarde d&apos;en-tête luks</translation>
     </message>
     <message>
         <location filename="../../zuluCrypt-gui/manageluksheader.cpp" line="147"/>
         <source>select a folder to store the header</source>
-        <translation type="unfinished"></translation>
+        <translation>choisir le répertoire de sauvegarde de l&apos;en-tête</translation>
     </message>
     <message>
         <location filename="../../zuluCrypt-gui/manageluksheader.cpp" line="215"/>
@@ -2187,132 +2189,132 @@ Are you sure you want to delete this key?</source>
         <location filename="../../zuluCrypt-gui/manageluksheader.cpp" line="314"/>
         <location filename="../../zuluCrypt-gui/manageluksheader.cpp" line="315"/>
         <source>ERROR!</source>
-        <translation type="unfinished"></translation>
+        <translation>ERROR!</translation>
     </message>
     <message>
         <location filename="../../zuluCrypt-gui/manageluksheader.cpp" line="215"/>
         <source>atleast one required field is empty</source>
-        <translation type="unfinished"></translation>
+        <translation>l&apos;un des champs requis au moins est vide</translation>
     </message>
     <message>
         <location filename="../../zuluCrypt-gui/manageluksheader.cpp" line="232"/>
         <source>Are you sure you want to replace a header on device &quot;%1&quot; with a backup copy at &quot;%2&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Etes-vous sûr de vouloir remplacer une en-tête sur le device &quot;%1&quot; avec une copie de sauvegarde sur &quot;%2&quot; ?</translation>
     </message>
     <message>
         <location filename="../../zuluCrypt-gui/manageluksheader.cpp" line="234"/>
         <source>WARNING!</source>
-        <translation type="unfinished"></translation>
+        <translation>ATTENTION!</translation>
     </message>
     <message>
         <location filename="../../zuluCrypt-gui/manageluksheader.cpp" line="270"/>
         <source>select luks container you want to backup its header</source>
-        <translation type="unfinished"></translation>
+        <translation>choisir le container luks dont vous voulez sauvegarder l&apos;en-tête</translation>
     </message>
     <message>
         <location filename="../../zuluCrypt-gui/manageluksheader.cpp" line="283"/>
         <location filename="../../zuluCrypt-gui/manageluksheader.cpp" line="285"/>
         <source>SUCCESS</source>
-        <translation type="unfinished"></translation>
+        <translation>SUCCES</translation>
     </message>
     <message>
         <location filename="../../zuluCrypt-gui/manageluksheader.cpp" line="283"/>
         <source>header saved successfully.
 if possible,store it securely.</source>
-        <translation type="unfinished"></translation>
+        <translation>en-tête sauvegardée avec succès. Si possible, mettez la en sécurité.</translation>
     </message>
     <message>
         <location filename="../../zuluCrypt-gui/manageluksheader.cpp" line="285"/>
         <source>header restored successfully</source>
-        <translation type="unfinished"></translation>
+        <translation>en-tête restaurée avec succès</translation>
     </message>
     <message>
         <location filename="../../zuluCrypt-gui/manageluksheader.cpp" line="297"/>
         <source>presented device is not a LUKS device</source>
-        <translation type="unfinished"></translation>
+        <translation>le device n&apos;est pas un device luks</translation>
     </message>
     <message>
         <location filename="../../zuluCrypt-gui/manageluksheader.cpp" line="298"/>
         <location filename="../../zuluCrypt-gui/manageluksheader.cpp" line="299"/>
         <location filename="../../zuluCrypt-gui/manageluksheader.cpp" line="302"/>
         <source>failed to perform requested operation</source>
-        <translation type="unfinished"></translation>
+        <translation>l&apos;opération demandée a échoué</translation>
     </message>
     <message>
         <location filename="../../zuluCrypt-gui/manageluksheader.cpp" line="300"/>
         <source>INFO!</source>
-        <translation type="unfinished"></translation>
+        <translation>INFO!</translation>
     </message>
     <message>
         <location filename="../../zuluCrypt-gui/manageluksheader.cpp" line="300"/>
         <source>operation terminater per user request</source>
-        <translation type="unfinished"></translation>
+        <translation>opération terminée à la demande de l&apos;utilisateur</translation>
     </message>
     <message>
         <location filename="../../zuluCrypt-gui/manageluksheader.cpp" line="301"/>
         <source>path to be used to create a back up file is occupied</source>
-        <translation type="unfinished"></translation>
+        <translation>l&apos;emplacement où doit être créé un fichier de sauvegarde est occupé</translation>
     </message>
     <message>
         <location filename="../../zuluCrypt-gui/manageluksheader.cpp" line="303"/>
         <source>insufficient privilege to open backup header file for reading</source>
-        <translation type="unfinished"></translation>
+        <translation>permissions insuffisantes pour ouvrir le fichier de sauvegarde d&apos;en-tête en lecture</translation>
     </message>
     <message>
         <location filename="../../zuluCrypt-gui/manageluksheader.cpp" line="304"/>
         <source>invalid path to back up header file</source>
-        <translation type="unfinished"></translation>
+        <translation>chemin du fichier de sauvegarde d&apos;en-tête invalide</translation>
     </message>
     <message>
         <location filename="../../zuluCrypt-gui/manageluksheader.cpp" line="305"/>
         <source>insufficient privilege to create a backup header in a destination folder</source>
-        <translation type="unfinished"></translation>
+        <translation>permissions insuffisantes pour créer un fichier de sauvegarde d&apos;en-tête dans le répertoire de destination</translation>
     </message>
     <message>
         <location filename="../../zuluCrypt-gui/manageluksheader.cpp" line="306"/>
         <source>invalid path to device</source>
-        <translation type="unfinished"></translation>
+        <translation>chemin du device invalide</translation>
     </message>
     <message>
         <location filename="../../zuluCrypt-gui/manageluksheader.cpp" line="307"/>
         <location filename="../../zuluCrypt-gui/manageluksheader.cpp" line="308"/>
         <source>argument for path to a backup  header file is missing</source>
-        <translation type="unfinished"></translation>
+        <translation>l&apos;argument chemin vers un fichier de sauvegarde d&apos;en-tête manquant</translation>
     </message>
     <message>
         <location filename="../../zuluCrypt-gui/manageluksheader.cpp" line="309"/>
         <source>only root user and &quot;zulucrypt&quot; members can restore and back up luks headers on system devices</source>
-        <translation type="unfinished"></translation>
+        <translation>seuls l&apos;utilisateur root et les membres du groupe &quot;zulucrypt&quot; peuvent restaurer et sauvegarder les en-têtes luks sur des devices système</translation>
     </message>
     <message>
         <location filename="../../zuluCrypt-gui/manageluksheader.cpp" line="310"/>
         <source>insufficient privilege to open device for writing</source>
-        <translation type="unfinished"></translation>
+        <translation>permissions insuffisantes pour ouvrir le device en écriture</translation>
     </message>
     <message>
         <location filename="../../zuluCrypt-gui/manageluksheader.cpp" line="311"/>
         <source>could not resolve path to device</source>
-        <translation type="unfinished"></translation>
+        <translation>impossible de retrouver le chemin du device</translation>
     </message>
     <message>
         <location filename="../../zuluCrypt-gui/manageluksheader.cpp" line="312"/>
         <source>backup file does not appear to contain luks header</source>
-        <translation type="unfinished"></translation>
+        <translation>le fichier de sauvegardene contient pas d&apos;en-tête luks</translation>
     </message>
     <message>
         <location filename="../../zuluCrypt-gui/manageluksheader.cpp" line="313"/>
         <source>insufficient privilege to open device for reading</source>
-        <translation type="unfinished"></translation>
+        <translation>permissions insuffisantes pour ouvrir le device en lecture</translation>
     </message>
     <message>
         <location filename="../../zuluCrypt-gui/manageluksheader.cpp" line="314"/>
         <source>device is not a luks device</source>
-        <translation type="unfinished"></translation>
+        <translation>le device n&apos;est pas un device luks</translation>
     </message>
     <message>
         <location filename="../../zuluCrypt-gui/manageluksheader.cpp" line="315"/>
         <source>unrecognized ERROR! with status number %1 encountered</source>
-        <translation type="unfinished"></translation>
+        <translation>ERROR! non reconnue. numéro de status %1</translation>
     </message>
 </context>
 <context>
@@ -2320,12 +2322,12 @@ if possible,store it securely.</source>
     <message>
         <location filename="../../zuluMount-gui/oneinstance.cpp" line="43"/>
         <source>There seem to be another instance running,exiting this one</source>
-        <translation type="unfinished"></translation>
+        <translation>Une autre instance est en cours d&apos;exécution, arrêt de la présente instance</translation>
     </message>
     <message>
         <location filename="../../zuluMount-gui/oneinstance.cpp" line="45"/>
         <source>Previous instance seem to have crashes,trying to clean up before starting</source>
-        <translation type="unfinished"></translation>
+        <translation>la précédente instance semble s&apos;être interrompue prématurément. Nettoyage avant de démarrer</translation>
     </message>
 </context>
 <context>
